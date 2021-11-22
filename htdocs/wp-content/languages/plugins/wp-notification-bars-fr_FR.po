@@ -1,0 +1,360 @@
+# Translation of Plugins - WP Notification Bars - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WP Notification Bars - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-01 12:29:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WP Notification Bars - Stable (latest release)\n"
+
+#: admin/class-wp-notification-bars-admin.php:758
+msgid "Thank you for trying WP Notification Bar. We hope you will like it."
+msgstr "Merci d’essayer WP Notification Bar. Nous espérons que vous l’aimerez."
+
+#: admin/class-wp-notification-bars-admin.php:748
+msgid "<p>Like WP Notification Bar plugin? You will LOVE <a target=\"_blank\" href=\"https://mythemeshop.com/plugins/wp-notification-bar/?utm_source=WP+Notification+Bars&utm_medium=Notification+Link&utm_content=WP+Notification+Bar+Pro+LP&utm_campaign=WordPressOrg\"><strong>WP Notification Bar Pro!</strong></a></p><a class=\"notice-dismiss mtsnb-notice-dismiss\" data-ignore=\"0\" href=\"#\"></a>"
+msgstr "<p>Vous aimez l’extension WP Notification Bar ? Vous allez ADORER <a target=\"_blank\" href=\"https://mythemeshop.com/plugins/wp-notification-bar/?utm_source=WP+Notification+Bars&utm_medium=Notification+Link&utm_content=WP+Notification+Bar+Pro+LP&utm_campaign=WordPressOrg\"><strong>WP Notification Bar Pro !</strong></a></p><a class=\"notice-dismiss mtsnb-notice-dismiss\" data-ignore=\"0\" href=\"#\"></a>"
+
+#: admin/class-wp-notification-bars-admin.php:228
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/class-wp-notification-bars-admin.php:284
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: admin/class-wp-notification-bars-admin.php:358
+msgid "Content"
+msgstr "Contenu"
+
+#: admin/class-wp-notification-bars-admin.php:315
+msgid "Text"
+msgstr "Texte"
+
+#: admin/class-wp-notification-bars-admin.php:811
+msgid "Custom field updated."
+msgstr "Champ personnalisé mis à jour."
+
+#: admin/class-wp-notification-bars-admin.php:812
+msgid "Custom field deleted."
+msgstr "Champ personnalisé supprimé."
+
+#: admin/class-wp-notification-bars-admin.php:353
+msgid "General"
+msgstr "Général"
+
+#: admin/class-wp-notification-bars-admin.php:308
+msgid "Link"
+msgstr "Lien"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Notification Bars"
+msgstr "WP Notification Bars"
+
+#: admin/class-wp-notification-bars-admin.php:305
+msgid "Link Style"
+msgstr "Style du lien"
+
+#: admin/class-wp-notification-bars-admin.php:363
+msgid "Style"
+msgstr "Style"
+
+#: admin/class-wp-notification-bars-admin.php:368
+msgid "Conditions"
+msgstr "Conditions"
+
+#. Author of the plugin/theme
+msgid "MyThemeShop"
+msgstr "MyThemeShop"
+
+#. Author URI of the plugin/theme
+msgid "https://mythemeshop.com/"
+msgstr "https://mythemeshop.com/"
+
+#. Plugin URI of the plugin/theme
+msgid "https://mythemeshop.com/plugins/wp-notification-bars/"
+msgstr "https://mythemeshop.com/plugins/wp-notification-bars/"
+
+#: admin/class-wp-notification-bars-admin.php:842
+msgid "Notification Bar"
+msgstr "Barre de notification"
+
+#: admin/class-wp-notification-bars-admin.php:886
+msgid "Selected notification bar will override any other bar."
+msgstr "Une barre de notification sélectionnée remplace toute autre barre."
+
+#: admin/class-wp-notification-bars-admin.php:882
+msgid "Select Notification Bar (optional):"
+msgstr "Sélectionnez la barre de notification (facultatif) :"
+
+#: admin/class-wp-notification-bars-admin.php:819
+msgid "Notification Bar draft updated."
+msgstr "Brouillon de barre de notification mis à jour."
+
+#: admin/class-wp-notification-bars-admin.php:818
+msgid "M j, Y @ H:i"
+msgstr "j M, Y @ H:i"
+
+#: admin/class-wp-notification-bars-admin.php:818
+msgid "Notification Bar  scheduled for: <strong>%1$s</strong>."
+msgstr "Barre de notification programmée pour le : <strong>%1$s</strong>."
+
+#: admin/class-wp-notification-bars-admin.php:817
+msgid "Notification Bar submitted."
+msgstr "Barre de notification soumise."
+
+#: admin/class-wp-notification-bars-admin.php:816
+msgid "Notification Bar saved."
+msgstr "Barre de notification enregistrée."
+
+#: admin/class-wp-notification-bars-admin.php:815
+msgid "Notification Bar published."
+msgstr "Barre de notification publiée."
+
+#: admin/class-wp-notification-bars-admin.php:814
+msgid "Notification Bar restored to revision from %s"
+msgstr "Barre de notification restaurée à la révision %s"
+
+#: admin/class-wp-notification-bars-admin.php:810
+#: admin/class-wp-notification-bars-admin.php:813
+msgid "Notification Bar updated."
+msgstr "Barre de notification mise à jour."
+
+#: admin/class-wp-notification-bars-admin.php:786
+msgid "Free version of WP Notification Bars plugin disabled. Pro version is active!"
+msgstr "Version gratuite du plugin WP Notification Bars désactivé. La version Pro est active !"
+
+#: admin/class-wp-notification-bars-admin.php:576
+msgid "Show Notification Bar if visitor arrived from Facebook."
+msgstr "Afficher la barre de notification si le visiteur provient de Facebook."
+
+#: admin/class-wp-notification-bars-admin.php:552
+msgid "Show Notification Bar if visitor arrived via Google search engine."
+msgstr "Afficher la barre de notification si le visiteur provient du moteur de recherche Google."
+
+#: admin/class-wp-notification-bars-admin.php:489
+#: admin/class-wp-notification-bars-admin.php:527
+msgid "Blog Homepage."
+msgstr "Page d’accueil du blog."
+
+#: admin/class-wp-notification-bars-admin.php:463
+#: admin/class-wp-notification-bars-admin.php:583
+msgid "Not from Facebook"
+msgstr "Pas à partir de Facebook"
+
+#: admin/class-wp-notification-bars-admin.php:449
+#: admin/class-wp-notification-bars-admin.php:559
+msgid "Not from Google"
+msgstr "Pas à partir de Google"
+
+#: admin/class-wp-notification-bars-admin.php:435
+#: admin/class-wp-notification-bars-admin.php:509
+msgid "Not on specific locations"
+msgstr "Pas sur des emplacements spécifiques"
+
+#: admin/class-wp-notification-bars-admin.php:430
+#: admin/class-wp-notification-bars-admin.php:471
+msgid "On specific locations"
+msgstr "Sur des emplacements spécifiques"
+
+#: admin/class-wp-notification-bars-admin.php:421
+msgid "Choose when and where to display the notification bar."
+msgstr "Choisissez où et quand afficher la barre de notification."
+
+#: admin/class-wp-notification-bars-admin.php:390
+msgid "Custom"
+msgstr "Personnaliser"
+
+#: admin/class-wp-notification-bars-admin.php:389
+msgid "Text and Link/Button"
+msgstr "Texte et lien/bouton"
+
+#: admin/class-wp-notification-bars-admin.php:374
+msgid "Select basic settings like close button type and CSS position of the bar."
+msgstr "Sélectionnez les réglages de base comme le type de bouton de fermeture et la position CSS de la barre."
+
+#: admin/class-wp-notification-bars-admin.php:327
+msgid "Link/Button Url"
+msgstr "URL du lien/bouton"
+
+#: admin/class-wp-notification-bars-admin.php:321
+msgid "Link/Button Text"
+msgstr "Texte du lien/bouton"
+
+#: admin/class-wp-notification-bars-admin.php:309
+msgid "Button"
+msgstr "Bouton"
+
+#: admin/class-wp-notification-bars-admin.php:296
+msgid "Font size (px)"
+msgstr "Taille de police (px)"
+
+#: admin/class-wp-notification-bars-admin.php:290
+msgid "Link Color/Button Color"
+msgstr "Couleur des liens/boutons"
+
+#: admin/class-wp-notification-bars-admin.php:269
+msgid "Absolute"
+msgstr "Absolu"
+
+#: admin/class-wp-notification-bars-admin.php:268
+msgid "Fixed"
+msgstr "Fixé"
+
+#: admin/class-wp-notification-bars-admin.php:265
+msgid "Notification bar CSS position"
+msgstr "Position CSS de la barre de notification"
+
+#: admin/class-wp-notification-bars-admin.php:259
+msgid "Content Width (px)"
+msgstr "Largeur du contenu (px)"
+
+#: admin/class-wp-notification-bars-admin.php:252
+msgid "Close Button"
+msgstr "Bouton de fermeture"
+
+#: admin/class-wp-notification-bars-admin.php:251
+msgid "Toggle Button"
+msgstr "Bouton à bascule"
+
+#: admin/class-wp-notification-bars-admin.php:250
+msgid "No Button"
+msgstr "Aucun bouton"
+
+#: admin/class-wp-notification-bars-admin.php:247
+msgid "Hide/Close Button"
+msgstr "Bouton Masquer/Fermer"
+
+#: admin/class-wp-notification-bars-admin.php:214
+msgid "Preview Bar"
+msgstr "Prévisualiser la barre"
+
+#: admin/class-wp-notification-bars-admin.php:175
+msgid "No notification bars found in Trash."
+msgstr "Aucune barre de notification trouvée dans la corbeille."
+
+#: admin/class-wp-notification-bars-admin.php:174
+msgid "No notification bars found."
+msgstr "Aucune barre de notification trouvée."
+
+#: admin/class-wp-notification-bars-admin.php:173
+msgid "Parent Notification Bars:"
+msgstr "Barres de notification parentes :"
+
+#: admin/class-wp-notification-bars-admin.php:172
+msgid "Search Notification Bars"
+msgstr "Rechercher des barres de notification"
+
+#: admin/class-wp-notification-bars-admin.php:171
+msgid "All Notification Bars"
+msgstr "Toutes les barres de notification"
+
+#: admin/class-wp-notification-bars-admin.php:170
+msgid "View Notification Bar"
+msgstr "Voir la barre de notification"
+
+#: admin/class-wp-notification-bars-admin.php:169
+msgid "Edit Notification Bar"
+msgstr "Modifier la barre de notification"
+
+#: admin/class-wp-notification-bars-admin.php:168
+msgid "New Notification Bar"
+msgstr "Nouvelle barre de notification"
+
+#: admin/class-wp-notification-bars-admin.php:167
+msgid "Add New Notification Bar"
+msgstr "Ajoutez une nouvelle barre de notification"
+
+#: admin/class-wp-notification-bars-admin.php:165
+msgctxt "add new on admin bar"
+msgid "Notification Bar"
+msgstr "Barre de notification"
+
+#: admin/class-wp-notification-bars-admin.php:164
+msgctxt "admin menu"
+msgid "Notification Bars"
+msgstr "Barres de notification"
+
+#: admin/class-wp-notification-bars-admin.php:163
+msgctxt "post type singular name"
+msgid "Notification Bar"
+msgstr "Barre de notification"
+
+#: admin/class-wp-notification-bars-admin.php:162
+msgctxt "post type general name"
+msgid "Notification Bars"
+msgstr "Barres de notification"
+
+#: admin/class-wp-notification-bars-admin.php:136
+msgid "Enter Notification Bar Title"
+msgstr "Entrez le titre de la barre de notification"
+
+#: admin/class-wp-notification-bars-admin.php:166
+msgctxt "notification bar"
+msgid "Add New"
+msgstr "Ajouter"
+
+#: admin/class-wp-notification-bars-admin.php:384
+msgid "Set up notification bar content. Select content type and fill in the fields."
+msgstr "Paramétrez le contenu de la barre de notification. Sélectionnez le type de contenu et renseignez les champs."
+
+#: admin/class-wp-notification-bars-admin.php:336
+msgid "Add custom content, shortcodes allowed"
+msgstr "Ajoutez du contenu personnalisé. Les codes courts sont autorisés."
+
+#: admin/class-wp-notification-bars-admin.php:411
+msgid "Change the appearance of the notification bar."
+msgstr "Modifiez l’apparence de la barre de notification."
+
+#: admin/class-wp-notification-bars-admin.php:482
+#: admin/class-wp-notification-bars-admin.php:520
+msgid "Homepage."
+msgstr "Page d’accueil"
+
+#: admin/class-wp-notification-bars-admin.php:496
+#: admin/class-wp-notification-bars-admin.php:534
+msgid "Pages."
+msgstr "Pages"
+
+#: admin/class-wp-notification-bars-admin.php:502
+#: admin/class-wp-notification-bars-admin.php:540
+msgid "Posts."
+msgstr "Articles"
+
+#: admin/class-wp-notification-bars-admin.php:511
+msgid "Hide Notification Bar on the following locations"
+msgstr "Masquez la barre de notification sur les emplacements suivants"
+
+#: admin/class-wp-notification-bars-admin.php:564
+msgid "Hide Notification Bar if visitor arrived via Google search engine."
+msgstr "Masquez la barre de notification si le visiteur provient du moteur de recherche Google."
+
+#: admin/class-wp-notification-bars-admin.php:588
+msgid "Hide Notification Bar if visitor arrived from Facebook."
+msgstr "Masquez la barre de notification si le visiteur provient de Facebook."
+
+#: admin/class-wp-notification-bars-admin.php:458
+#: admin/class-wp-notification-bars-admin.php:571
+msgid "From Facebook"
+msgstr "À partir de Facebook"
+
+#: admin/class-wp-notification-bars-admin.php:444
+#: admin/class-wp-notification-bars-admin.php:547
+msgid "From Google"
+msgstr "À partir de Google"
+
+#: admin/class-wp-notification-bars-admin.php:278
+msgid "Background Color"
+msgstr "Couleur de l’arrière-plan"
+
+#. Description of the plugin/theme
+msgid "WP Notification Bars is a custom notification and alert bar plugin for WordPress which is perfect for marketing promotions, alerts, increasing click throughs to other pages and so much more."
+msgstr "WP Notification Bars est une extension de notification et d’alerte personnalisée pour WordPress qui est parfaite pour le marketing comme les promotions, alertes, l’augmentation du taux de clics vers d'autres pages et bien plus encore."
+
+#: admin/class-wp-notification-bars-admin.php:473
+msgid "Show Notification Bar on the following locations"
+msgstr "Affichez la barre de notification sur les emplacements suivants"

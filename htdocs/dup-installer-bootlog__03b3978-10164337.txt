@@ -1,0 +1,26 @@
+[Nov 15 21:10:11] 
+[Nov 15 21:10:11] ==DUPLICATOR INSTALLER BOOTSTRAP v1.4.3==
+[Nov 15 21:10:11] ----------------------------------------------------
+[Nov 15 21:10:11] Installer bootstrap start
+[Nov 15 21:10:11] Manual extract found so not going to extract dup-installer dir
+[Nov 15 21:10:11] ERROR: Didn't need to extract the installer.
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/assets<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/classes<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/ctrls<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/favicon<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/lib<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/views<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/dup-archive__[HASH].txt<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/dup-database__[HASH].sql<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/dup-installer-csrf__[HASH].txt<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/dup-installer-log__[HASH].txt<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/dup-installer-notices__[HASH].json<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/dup-installer-state_[HASH].txt<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/dup-orig-htaccess__[HASH].txt<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/dup-orig-wp-config__[HASH].txt<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/dup-scan__[HASH].json<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/index.php<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/main.installer.php<br/>
+[Nov 15 21:10:11] Set permissions of C:/xampp1/htdocs/rcmp/dup-installer/php_error__[HASH].log<br/>
+[Nov 15 21:10:11] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://localhost/rcmp/dup-installer/main.installer.php

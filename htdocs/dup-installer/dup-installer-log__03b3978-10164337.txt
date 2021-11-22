@@ -1,0 +1,711 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 09:10:28
+* VERSION: 1.4.3
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.4.25                                |7.3.31
+OS__________________: Linux                                 |WINNT
+CREATED_____________: 2021-11-10 16:43:37
+WP VERSION__________: 5.5.6
+DUP VERSION_________: 1.4.3
+DB__________________: 5.5.68
+DB TABLES___________: 44
+DB ROWS_____________: 46,620
+DB FILE SIZE________: 20.53MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.3.31 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/7.3.31
+DOC ROOT____________: "C:/xampp1/htdocs/rcmp"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/rcmp/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/xampp1/htdocs/rcmp/20211110thercmplongitudinalptsdstud_[HASH]_20211110164337_archive.zip"
+SIZE________________: 2.51MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' backed-up to .htaccess-211115211028-6192ccc45652c-duplicator.bak
+- PASS: Existing Apache '.htaccess' was removed
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/xampp1/htdocs/rcmp/20211110thercmplongitudinalptsdstud_[HASH]_20211110164337_archive.zip"
+SIZE________________: 2.51MBFile timestamp set to Current: 2021-11-15 21:10:29
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+
+STEP-1 COMPLETE @ 09:10:29 - RUNTIME: 0.7142 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 09:10:43
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTION CREATION___: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.21 -- Build Server: 5.5.68
+FILE SIZE:	dup-database__[HASH].sql (8.99MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[C:/xampp1/htdocs/rcmp/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+DB FUNCTIONS:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	398
+
+wp_commentmeta: (0)
+wp_comments: (0)
+wp_duplicator_packages: (0)
+wp_gf_draft_submissions: (0)
+wp_gf_entry: (1)
+wp_gf_entry_meta: (4)
+wp_gf_entry_notes: (1)
+wp_gf_form: (2)
+wp_gf_form_meta: (2)
+wp_gf_form_revisions: (0)
+wp_gf_form_view: (48)
+wp_hustle_entries: (0)
+wp_hustle_entries_meta: (0)
+wp_hustle_modules: (1)
+wp_hustle_modules_meta: (6)
+wp_hustle_tracking: (0)
+wp_links: (0)
+wp_options: (522)
+wp_pmxe_exports: (1)
+wp_pmxe_google_cats: (5371)
+wp_pmxe_posts: (0)
+wp_pmxe_templates: (0)
+wp_postmeta: (57974)
+wp_posts: (695)
+wp_power_stats_browsers: (5)
+wp_power_stats_os: (3)
+wp_power_stats_pageviews: (107)
+wp_power_stats_posts: (221)
+wp_power_stats_referers: (96)
+wp_power_stats_searches: (0)
+wp_power_stats_visits: (71)
+wp_statistics_exclusions: (0)
+wp_statistics_historical: (0)
+wp_statistics_pages: (1)
+wp_statistics_search: (0)
+wp_statistics_useronline: (1)
+wp_statistics_visit: (2)
+wp_statistics_visitor: (2)
+wp_term_relationships: (0)
+wp_term_taxonomy: (1)
+wp_termmeta: (0)
+wp_terms: (1)
+wp_usermeta: (157)
+wp_users: (8)
+Removed '30' cache/transient rows
+
+INSERT DATA RUNTIME: 5.9685 sec.
+STEP-2 COMPLETE @ 09:10:49 - RUNTIME: 6.0945 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 09:10:54
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "The RCMP Longitudinal PTSD Study"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com"
+path_new______________: "C:/xampp1/htdocs/rcmp"
+siteurl_______________: "http://localhost/rcmp"
+url_old_______________: "https://rcmp.hosting2-bravotango.com"
+url_new_______________: "http://localhost/rcmp"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_gf_draft_submissions"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_gf_entry"_____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_gf_entry_meta"________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_gf_entry_notes"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_gf_form"______________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_gf_form_meta"_________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_gf_form_revisions"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_gf_form_view"_________________________________[ROWS:    48][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_hustle_entries"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_hustle_entries_meta"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_hustle_modules"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_hustle_modules_meta"__________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_hustle_tracking"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   522][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_pmxe_exports"_________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_pmxe_google_cats"_____________________________[ROWS:  5371][PG:   2][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_pmxe_posts"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_pmxe_templates"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS: 57974][PG:  17][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   695][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_power_stats_browsers"_________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_power_stats_os"_______________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_power_stats_pageviews"________________________[ROWS:   107][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_power_stats_posts"____________________________[ROWS:   221][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_power_stats_referers"_________________________[ROWS:    96][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_power_stats_searches"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_power_stats_visits"___________________________[ROWS:    71][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_statistics_exclusions"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_historical"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_pages"_____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_statistics_search"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_useronline"________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_statistics_visit"_____________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_statistics_visitor"___________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:   157][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     8][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/hosting2-bravotango.com/rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  2:"\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Fhosting2-bravotango.com%2Frcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  4:"\var\www\vhosts\hosting2-bravotango.com\rcmp.hosting2-bravotango.com" => "C:/xampp1/htdocs/rcmp"
+	SEARCH  5:"\\var\\www\\vhosts\\hosting2-bravotango.com\\rcmp.hosting2-bravotango.com" => "C:\/xampp1\/htdocs\/rcmp"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Chosting2-bravotango.com%5Crcmp.hosting2-bravotango.com" => "C%3A%2Fxampp1%2Fhtdocs%2Frcmp"
+	SEARCH  7:"//rcmp.hosting2-bravotango.com" ==================> "//localhost/rcmp"
+	SEARCH  8:"\/\/rcmp.hosting2-bravotango.com" ================> "\/\/localhost\/rcmp"
+	SEARCH  9:"%2F%2Frcmp.hosting2-bravotango.com" ==============> "%2F%2Flocalhost%2Frcmp"
+	SEARCH 10:"https://localhost/rcmp" ==========================> "http://localhost/rcmp"
+	SEARCH 11:"https:\/\/localhost\/rcmp" =======================> "http:\/\/localhost\/rcmp"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Frcmp" ==================> "http%3A%2F%2Flocalhost%2Frcmp"
+--------------------------------------
+SCANNED:	Tables:44 	|	 Rows:65304 	|	 Cells:280534 
+UPDATED:	Tables:9 	|	 Rows:1682 	|	 Cells:1693 
+ERRORS:		0 
+RUNTIME:	4.118100 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME "** OBSCURED **"
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+MAINTENANCE MODE DISABLE
+
+====================================
+NOTICES TEST
+====================================
+MEDIA SETTINGS NOTICE: The table 'wp_options' has at least one the following values ['upload_url_path','upload_path'] 
+set please validate settings. These settings can be changed in the wp-admin by going to /wp-admin/options.php'
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 09:10:58 - RUNTIME: 4.3308 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] Info
+	SECTIONS: general
+	LONG MSG:             The following is a list of notices that may need to be fixed in order to finalize your setup. These values should only be investigated if you're running into
+            issues with your site. For more details see the <a href="https://codex.wordpress.org/Editing_wp-config.php" target="_blank">WordPress Codex</a>.
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+-----------------------
+[WARNING] Media settings notice
+	SECTIONS: general
+	LONG MSG: MEDIA SETTINGS NOTICE: The table 'wp_options' has at least one the following values ['upload_url_path','upload_path'] 
+set please validate settings. These settings can be changed in the wp-admin by going to /wp-admin/options.php'
+
+====================================

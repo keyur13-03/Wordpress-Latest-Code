@@ -1,0 +1,450 @@
+{
+    "RPT": {
+        "ScanTime": "0.08 sec.",
+        "ScanFile": "20211110thercmplongitudinalptsdstud_3800cc5fa81feb6b1735_20211110164337_scan.json",
+        "Warnings": 1,
+        "Success": 5
+    },
+    "SRV": {
+        "PHP": {
+            "websrv": true,
+            "openbase": false,
+            "maxtime": true,
+            "mysqli": true,
+            "version": true
+        },
+        "SYS": {
+            "managedHost": true,
+            "ALL": "Warn"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "0B",
+        "DirCount": "0",
+        "FileCount": "0",
+        "FullCount": "0",
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/.opcache",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/ai1wm-backups",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/aiowps_backups",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/backupbuddy_backups",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/backupbuddy_temp",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/ithemes-security\/backups",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/mainwp\/backup",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/pb_backupbuddy",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/snapshots",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/sucuri",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/wp-clone",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/wp_all_backup",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/wpbackitup_backups",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/backups-dup-lite",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/backups-dup-pro",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/backupwordpress",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/bps-backup",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/cache",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/content\/cache",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/contents\/cache",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/infinitewp\/backups",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/managewp\/backups",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/old-cache",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/updraft",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/wfcache",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/wishlist-backup",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            "error_log",
+            "error.log",
+            "debug_log",
+            "ws_ftp.log",
+            "dbcache",
+            "pgcache",
+            "objectcache",
+            ".DS_Store",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/.htaccess",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/web.config",
+            "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-config.php"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-snapshots",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/backups-dup-lite",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/.opcache",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/backups-dup-pro",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/ai1wm-backups",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/backupwordpress",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/content\/cache",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/contents\/cache",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/infinitewp\/backups",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/managewp\/backups",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/old-cache",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/updraft",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/wishlist-backup",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/wfcache",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/bps-backup",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/cache",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/aiowps_backups",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/backupbuddy_temp",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/backupbuddy_backups",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/ithemes-security\/backups",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/mainwp\/backup",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/pb_backupbuddy",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/snapshots",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/sucuri",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/wp-clone",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/wp_all_backup",
+                    "\/var\/www\/vhosts\/hosting2-bravotango.com\/rcmp.hosting2-bravotango.com\/wp-content\/assets\/wpbackitup_backups"
+                ],
+                "Global": [],
+                "Instance": []
+            },
+            "Files": {
+                "Size": [],
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "UDirCount": 0,
+            "UFileCount": 0,
+            "UExtCount": 0,
+            "TreeSize": [],
+            "TreeWarning": []
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateProcFuncStatus": "Good",
+            "showCreateProcFunc": true,
+            "AddonSites": "Good"
+        },
+        "Dirs": [],
+        "Files": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "DB_Case": "Good",
+            "DB_Rows": "Good",
+            "DB_Size": "Good",
+            "TBL_Case": "Good",
+            "TBL_Rows": "Good",
+            "TBL_Size": "Warn",
+            "Triggers": "Good"
+        },
+        "Size": "20.53MB",
+        "Rows": "59,617",
+        "TableCount": 44,
+        "TableList": {
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_duplicator_packages": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_gf_draft_submissions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_gf_entry": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_gf_entry_meta": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_gf_entry_notes": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_gf_form": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_gf_form_meta": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_gf_form_revisions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_gf_form_view": {
+                "Case": 0,
+                "Rows": "48",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_hustle_entries": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_hustle_entries_meta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_hustle_modules": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_hustle_modules_meta": {
+                "Case": 0,
+                "Rows": "6",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_hustle_tracking": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "1,324",
+                "Size": "1.2MB",
+                "USize": 1261568
+            },
+            "wp_pmxe_exports": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_pmxe_google_cats": {
+                "Case": 0,
+                "Rows": "4,873",
+                "Size": "400KB",
+                "USize": 409600
+            },
+            "wp_pmxe_posts": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_pmxe_templates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "52,022",
+                "Size": "16.55MB",
+                "USize": 17350656
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "655",
+                "Size": "672KB",
+                "USize": 688128
+            },
+            "wp_power_stats_browsers": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_power_stats_os": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_power_stats_pageviews": {
+                "Case": 0,
+                "Rows": "107",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_power_stats_posts": {
+                "Case": 0,
+                "Rows": "221",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_power_stats_referers": {
+                "Case": 0,
+                "Rows": "96",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_power_stats_searches": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_power_stats_visits": {
+                "Case": 0,
+                "Rows": "71",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_statistics_exclusions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_statistics_historical": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_statistics_pages": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_statistics_search": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_statistics_useronline": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_statistics_visit": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_statistics_visitor": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "157",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "8",
+                "Size": "64KB",
+                "USize": 65536
+            }
+        },
+        "RawSize": 21528576
+    },
+    "LL": {
+        "TotalSize": "20.53MB",
+        "Status": {
+            "TotalSize": "Good"
+        }
+    }
+}
